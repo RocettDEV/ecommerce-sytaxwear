@@ -34,6 +34,14 @@ ul[class], ol[class] {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
 /* Make images easier to work with */
 img {
   max-width: 100%;
